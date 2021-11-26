@@ -11,6 +11,7 @@
 		D9E481AB2750896C004189CF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E481AA2750896C004189CF /* ContentView.swift */; };
 		D9E481AD27508970004189CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9E481AC27508970004189CF /* Assets.xcassets */; };
 		D9E481B027508970004189CF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9E481AF27508970004189CF /* Preview Assets.xcassets */; };
+		D9E481B7275089CD004189CF /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E481B6275089CD004189CF /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D9E481AA2750896C004189CF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D9E481AC27508970004189CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9E481AF27508970004189CF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D9E481B6275089CD004189CF /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D9E481A82750896C004189CF /* Fetch_Data_APIApp.swift */,
 				D9E481AA2750896C004189CF /* ContentView.swift */,
+				D9E481B6275089CD004189CF /* Model.swift */,
 				D9E481AC27508970004189CF /* Assets.xcassets */,
 				D9E481AE27508970004189CF /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9E481B7275089CD004189CF /* Model.swift in Sources */,
 				D9E481AB2750896C004189CF /* ContentView.swift in Sources */,
 				D9E481A92750896C004189CF /* Fetch_Data_APIApp.swift in Sources */,
 			);
